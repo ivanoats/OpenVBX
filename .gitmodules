@@ -1,0 +1,6 @@
+[submodule "plugins/OpenVBX-Plugin-Outbound"]
+	path = plugins/OpenVBX-Plugin-Outbound
+	url = git@github.com:ivanoats/OpenVBX-Plugin-Outbound.git
+[submodule "plugins/OpenVBX-Plugin-Subscriptions"]
+	path = plugins/OpenVBX-Plugin-Subscriptions
+	url = git://github.com/ivanoats/OpenVBX-Plugin-Subscriptions
